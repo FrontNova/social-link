@@ -24,6 +24,7 @@ body{
     height:150px;
     position:absolute;
     border-radius:3%;
+     min-height: 100%;
 
 }
 
