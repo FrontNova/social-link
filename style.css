@@ -16,15 +16,13 @@ body{
     align-items:center;
     justify-content: center;
     flex-direction:column;
-     min-height: 100vh;
 }
 .box-1{
     border:solid,hsl(0, 0%, 12%);
     border-width:139px;
     height:150px;
     position:absolute;
-    border-radius:3%;
-     min-height: 100vh;
+    border-radius:3%;     
 
 }
 
