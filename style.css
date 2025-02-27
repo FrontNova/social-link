@@ -4,9 +4,13 @@ body{
     min-height: 100vh;
     overflow:hidden;
     position:relative;
-    padding-top:100px;
     font-family:Inter;
     padding-left:20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+
 
 
 }
